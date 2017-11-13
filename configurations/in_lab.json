@@ -1,0 +1,11 @@
+{
+	"modules":
+	{
+		"child_panel":				{"url":"/modules/panel/in_lab_child.html","name_for_search":""},
+
+		"participant":				{"table_id":"20008848","url":"/modules/in_lab/participant/participant.html","name_for_search":"Participant (In Lab)"},
+		"participant_login_setup":	{"table_id":"20008849","url":"/modules/in_lab/participant/participant_login_setup.html","name_for_search":""},
+		"clinical_trials_notes":	{"table_id":"20008850","url":"/modules/in_lab/participant/task-notes.html","name_for_search":"Task notes (In Lab)"},
+		"site_filter":				{"table_id":"0","name_for_search":""}
+	}
+}

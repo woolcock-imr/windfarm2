@@ -1,0 +1,11 @@
+{
+	"api_path_development":"https://cbs.wappsystem.com/dev/",
+	"api_path_production":"https://rt.woolcock.org.au/",
+	"default_production":"Yes",
+	"panels":{
+		"panel_main":{"url":"","modules":["main.json"]},
+		"panel_in_lab":{"url":"/modules/panel/in_lab_main.html","modules":["in_lab.json"]},
+		"panel_recruitment":{"url":"/modules/panel/recruitment.html","modules":["recruitment.json"]},
+		"panel_screening":{"url":"/modules/panel/screening_main.html","modules":["screening.json"]}
+	}
+}
